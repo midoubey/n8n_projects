@@ -10,6 +10,9 @@
   - High retrieval accuracy
   - Multi-step workflow with logic branching
   - API-ready integration
+  - ## 📸 Workflow Screenshot
+
+![RAG Workflow](assets/rag-workflow-overview.png)
 
 ### 2️⃣ WhatsApp Lead Capture Workflow
 - Folder: `WhatsApp/`
@@ -21,6 +24,9 @@
   - Sends email notifications for new leads
   - Multi-step logic with integrations
   - API-ready for CRM or Google Sheets
+  - ## 📸 Workflow Screenshot
+
+![WhatsApp Workflow](assets/whatsapp-workflow-overview.png)
 
 
 ## 🛠 Tech Stack
