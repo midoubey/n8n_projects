@@ -33,7 +33,8 @@
 n8n_projects/
 ├─ RAG/
 │ └─ rag-document-retrieval-workflow.json
-├─ WhatsApp/ (future project)
+├─ WhatsApp/
+│ └─ whatsapp_lead_capture_workflow.json
 ├─ assets/
 ├─ src/
 ├─ README.md
